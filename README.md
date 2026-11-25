@@ -1,5 +1,14 @@
 # AccessBridge — Business Registration & Compliance
 
+## 🌐 Live Website
+
+[Visit AccessBridge](https://accessbridge-ana67dee.manus.space)
+
+## 💻 GitHub Repository
+
+[View Source Code](https://github.com/zakariaadanhussein765-cloud/accessbridge)
+
+
 A responsive Kenya-focused educational prototype to help entrepreneurs explore business registration, permits, tax basics, official resources, and a practical getting-started checklist.
 
 ## Run locally
